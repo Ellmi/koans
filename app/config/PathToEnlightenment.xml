@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<packages>
+    <package pkg="beginner" name="Tiangong Basic 1">
+
+        <suite class="AboutArrays"/>
+        <suite class="AboutStrings"/>
+        <suite class="AboutEnums"/>
+        <suite class="AboutObjects"/>
+        <suite class="AboutConstructors"/>
+        <suite class="AboutEquality"/>
+        <suite class="AboutExceptions"/>
+
+    </package>
+    <package pkg="intermediate" name="Tiangong Basic 2">
+        <suite class="AboutAutoboxing"/>
+        <suite class="AboutCollections"/>
+        <suite class="AboutComparison"/>
+        <suite class="AboutEquality"/>
+        <suite class="AboutSerialization"/>
+    </package>
+</packages>
